@@ -1,9 +1,12 @@
 # Medical-school-Data-science student survey
+
 **What are we doing?** 
 We are carrying out a survey of UK medical schools to understand the level of data science in the
 curriculum, medical schools’ understanding of data science, and to see how much exposure students
 have to data science during their studies.
-**Why another survey? **
+
+
+**Why another survey?**
 Developing a healthcare workforce with strong skills in data science has become a focus of national
 priority after a number of government and NHS reviews. Section 19 of the General Medical Council’s
 Defined learning outcomes for the BMBS curriculum states that “Newly qualified doctors must be
